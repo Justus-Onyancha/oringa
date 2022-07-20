@@ -1,0 +1,12 @@
+{
+    "name": "oringa",
+    "version": "1.0.0",
+    "description": "A Moringa version of react",
+    "license": "MIT",
+    "repository": "Justus-Onyancha/oringa",
+    "author": "Justus",
+    "main": "oringa.js",
+    "keywords": [
+      "react"
+    ]
+  }
